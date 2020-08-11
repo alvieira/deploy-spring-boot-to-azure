@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Built-By: aloisio
-Build-Jdk: 11.0.7
+Build-Jdk: 11.0.8
 Implementation-Title: rest-api-full-stack
 Implementation-Version: 0.0.1-SNAPSHOT
 Implementation-Vendor-Id: com.in28minutes.rest.webservices
