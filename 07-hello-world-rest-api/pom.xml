@@ -55,7 +55,7 @@
 				<configuration>
 					<schemaVersion>V2</schemaVersion>
 					<resourceGroup>hello-world-rest-api-v2-rg</resourceGroup>
-					<appName>hello-world-rest-api-v2-in28minutes</appName>
+					<appName>hello-world-rest-api-v2-aev</appName>
 					<pricingTier>B1</pricingTier>
 					<region>westeurope</region>
 					<appSettings>
@@ -71,7 +71,7 @@
 					</runtime>
 					<deploymentSlot>
 						<name>stage</name>
-						<configurationSource>parent</configurationSource>					
+						<configurationSource>parent</configurationSource>
 					</deploymentSlot>
 					<deployment>
 						<resources>
