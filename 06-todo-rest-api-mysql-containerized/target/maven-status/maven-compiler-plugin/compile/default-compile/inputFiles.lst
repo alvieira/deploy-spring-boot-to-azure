@@ -1,0 +1,6 @@
+/home/aloisio/workspaces/deploy-spring-boot-to-azure/06-todo-rest-api-mysql-containerized/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldController.java
+/home/aloisio/workspaces/deploy-spring-boot-to-azure/06-todo-rest-api-mysql-containerized/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoJpaRepository.java
+/home/aloisio/workspaces/deploy-spring-boot-to-azure/06-todo-rest-api-mysql-containerized/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoJpaResource.java
+/home/aloisio/workspaces/deploy-spring-boot-to-azure/06-todo-rest-api-mysql-containerized/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.java
+/home/aloisio/workspaces/deploy-spring-boot-to-azure/06-todo-rest-api-mysql-containerized/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/Todo.java
+/home/aloisio/workspaces/deploy-spring-boot-to-azure/06-todo-rest-api-mysql-containerized/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplication.java
